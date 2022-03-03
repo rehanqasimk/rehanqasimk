@@ -1,4 +1,6 @@
-### Hi there 👋
+# About Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40rehanqasimk-239a3b.svg)](https://github.com/rehanqasimk)
 
 <!--
 **rehanqasimk/rehanqasimk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
